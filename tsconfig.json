@@ -1,0 +1,6 @@
+{
+	"compilerOptions": {
+		"plugins": [{ "name": "typescript-deno-plugin" }],
+		"strict": false
+	}
+}
